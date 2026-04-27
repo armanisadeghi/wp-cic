@@ -23,3 +23,6 @@ wp-content/maintenance/
 
 # Ignore config
 wp-config.php
+/wp-content/aiowps_backups
+/wp-content/et-cache
+/wp-content/wflogs

@@ -1,0 +1,17 @@
+.et-db #et-boc .et-fb-modules-list ul>li.et_fb_ds_before_after_slider .et-fb-icon.et-fb-icon--svg,
+.et-db #et-boc .et-fb-modules-list ul>li.et_pb_ds_before_after_slider .et-fb-icon.et-fb-icon--svg {
+    width: 16px !important;
+    min-width: 16px !important;
+    height: 16px !important;
+    margin: 0 auto 5px auto !important;
+}
+
+.et-db #et-boc .et-fb-modules-list ul>li.et_fb_ds_before_after_slider .et-fb-icon.et-fb-icon--svg path,
+.et-db #et-boc .et-fb-modules-list ul>li.et_pb_ds_before_after_slider .et-fb-icon.et-fb-icon--svg path {
+    fill: #2b87da !important;
+}
+
+.et-db #et-boc .et-fb-modules-list ul>li.et_fb_ds_before_after_slider span.et_module_title,
+.et-db #et-boc .et-fb-modules-list ul>li.et_pb_ds_before_after_slider span.et_module_title {
+    font-size: 10px !important;
+}
