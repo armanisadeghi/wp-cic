@@ -1,0 +1,1440 @@
+# Copyright (C) 2021 Divi-Modules
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi-Modules – Table Maker 2.0.4\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/divi-modules-table-maker\n"
+"POT-Creation-Date: 2021-11-18 02:12:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: activate.php:17
+msgid "This plugin requires that your server PHP version is 5.6 or greater."
+msgstr ""
+
+#: activate.php:23
+msgid ""
+"This plugin requires that your server PHP has the MBSTRING extension "
+"enabled."
+msgstr ""
+
+#: activate.php:29
+msgid "This plugin requires that your server PHP has the DOM extension enabled."
+msgstr ""
+
+#: activate.php:35
+msgid "This plugin requires that your server PHP has the LIBXML extension enabled."
+msgstr ""
+
+#: activate.php:43
+msgid "Divi-Modules – %s has been deactivated because:"
+msgstr ""
+
+#: activate.php:44
+msgid "See your website hosting control panel, or contact your hosting provider."
+msgstr ""
+
+#: admin/partials/options-partial.php:18
+msgid ""
+"This copy of Divi-Modules – %s was purchased from the Elegant Themes Divi "
+"Marketplace. For product licensing, updates and support, see your %sDivi "
+"Marketplace Customer Dashboard%s."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:28
+msgid "Table Maker"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:29
+msgid "Table Makers"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:30
+#: includes/modules/TableMakerItem/TableMakerItem.php:27
+#: includes/modules/TableMakerItem/TableMakerItem.php:36
+msgid "Column"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:52
+msgid "Table Columns"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:53
+msgid "Table Rows"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:54
+msgid "Table Responsive"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:55
+msgid "Table Scrolling"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:56
+#: includes/modules/TableMaker/TableMaker.php:136
+msgid "Table Icons"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:57
+#: includes/modules/TableMaker/TableMaker.php:140
+msgid "Table Buttons"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:58
+#: includes/modules/TableMaker/TableMaker.php:144
+msgid "Table Images"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:65
+msgid "Table Frame"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:66
+msgid "Table Stripes"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:67
+#: includes/modules/TableMaker/TableMaker.php:96
+msgid "Table Cells"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:68
+msgid "Table Text"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:69
+#: includes/modules/TableMaker/TableMaker.php:104
+#: includes/modules/TableMakerItem/TableMakerItem.php:77
+#: includes/modules/TableMakerItem/TableMakerItem.php:113
+msgid "Column Header Cells"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:70
+#: includes/modules/TableMakerItem/TableMakerItem.php:78
+msgid "Column Header Text"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:71
+#: includes/modules/TableMaker/TableMaker.php:112
+#: includes/modules/TableMakerItem/TableMakerItem.php:79
+#: includes/modules/TableMakerItem/TableMakerItem.php:123
+msgid "Row Header Cells"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:72
+#: includes/modules/TableMakerItem/TableMakerItem.php:80
+msgid "Row Header Text"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:73
+#: includes/modules/TableMaker/TableMaker.php:120
+#: includes/modules/TableMakerItem/TableMakerItem.php:81
+#: includes/modules/TableMakerItem/TableMakerItem.php:133
+msgid "Column Footer Cells"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:74
+#: includes/modules/TableMakerItem/TableMakerItem.php:82
+msgid "Column Footer Text"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:75
+#: includes/modules/TableMaker/TableMaker.php:128
+#: includes/modules/TableMakerItem/TableMakerItem.php:83
+#: includes/modules/TableMakerItem/TableMakerItem.php:143
+msgid "Row Footer Cells"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:76
+#: includes/modules/TableMakerItem/TableMakerItem.php:84
+msgid "Row Footer Text"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:77
+msgid "Accordion Toggle"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:100
+#: includes/modules/TableMaker/TableMaker.php:1528
+msgid "Table Content"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:108
+#: includes/modules/TableMakerItem/TableMakerItem.php:118
+msgid "Column Header Content"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:116
+#: includes/modules/TableMakerItem/TableMakerItem.php:128
+msgid "Row Header Content"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:124
+#: includes/modules/TableMakerItem/TableMakerItem.php:138
+msgid "Column Footer Content"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:132
+#: includes/modules/TableMakerItem/TableMakerItem.php:148
+msgid "Row Footer Content"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:254
+#: includes/modules/TableMakerItem/TableMakerItem.php:223
+msgid "Buttons"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:569
+msgid ""
+"Here you can set a maximum width for all table columns. For flexible-width "
+"columns, it’s recommended to use fraction (fr) units. This can also be set "
+"to 'auto'. For fixed-width columns, it’s recommended to use pixel (px) "
+"units. This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:571
+msgid ""
+"Here you can set a minimum width for all table columns. It’s recommended to "
+"use pixel (px) units. This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:573
+msgid ""
+"Here you can set a maximum height for all table rows. For flexible-height "
+"rows, it’s recommended to set this to ‘auto’. For fixed-height rows, it’s "
+"recommended to use pixel (px) units."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:575
+msgid ""
+"Here you can set a minimum height for all table rows. It’s recommended to "
+"use pixel (px) units."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:579
+msgid "Here you can set the number of column headers the table will have."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:581
+msgid "Here you can set the number of column footers the table will have."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:583
+msgid "Here you can set the number of row headers the table will have."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:585
+msgid "Here you can set the number of row footers the table will have."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:589
+msgid ""
+"Here you can set the table breakpoint – the point at which the table will "
+"display as blocks or accordion."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:591
+msgid ""
+"Here you can set whether the table will break by columns or rows. If set to "
+"Columns, each column will become a separate block or accordion section. If "
+"set to Rows, each row will become a separate block or accordion section."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:593
+msgid ""
+"Your table currently has no column headers and will break by rows "
+"regardless of the setting above. To break by columns, please add a column "
+"header."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:595
+msgid ""
+"Your table currently has no row headers and will break by columns "
+"regardless of the setting above. To break by rows, please add a row header."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:597
+msgid "Here you can choose whether the table will display as blocks or accordion."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:599
+msgid ""
+"Your table currently has no headers and will display as blocks regardless "
+"of the setting above. To display as accordion, please add a column or row "
+"header."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:601
+msgid "Here you can set the space between each block or accordion section."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:605
+msgid ""
+"Here you can choose to enable table scrolling. If set to Off, the table may "
+"overflow its containing element. If set to On, any overflow will be hidden "
+"and scrollbars will appear."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:607
+msgid ""
+"Here you can choose to make column headers sticky. If set to Off, column "
+"headers will scroll along with table contents. If set to On, column headers "
+"will stick to the top edge of the table, remaining visible."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:609
+msgid ""
+"Here you can choose to make row headers sticky. If set to Off, row headers "
+"will scroll along with table contents. If set to On, row headers will stick "
+"to the left edge of the table, remaining visible."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:613
+msgid ""
+"Here you can select the table’s default icon. This setting can be "
+"overridden per column or individual icon element. See documentation for "
+"details."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:615
+msgid ""
+"Here you can set the table’s default icon size. This setting can be "
+"overridden per column or individual icon element. See documentation for "
+"details."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:617
+msgid ""
+"Here you can set the table’s default icon color. This setting can be "
+"overridden per column or individual icon element. See documentation for "
+"details."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:621
+msgid ""
+"Here you can set the table’s default button text. This setting can be "
+"overridden per column or individual button element. See documentation for "
+"details."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:623
+msgid ""
+"Here you can set the table’s default button url. This setting can be "
+"overridden per column or individual button element. See documentation for "
+"details."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:625
+msgid ""
+"Here you can set the table’s default button target. This setting can be "
+"overridden per column or individual button element. See documentation for "
+"details."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:627
+msgid ""
+"Here you can set the table’s default button width. If set to Text Width, "
+"buttons will be as wide as their text. If set to Cell Width, buttons will "
+"stretch to fill their containing cell. This setting can be overridden per "
+"column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:631
+msgid ""
+"Here you can select images to use within table cells. See documentation for "
+"details."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:633
+msgid "Here you can set the table’s default image quality or resolution."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:635
+msgid ""
+"Here you can set the table’s default image proportion. This setting can be "
+"overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:637
+msgid ""
+"Here you can choose how the table’s images are scaled. If set to Fit, "
+"images are scaled to fit their containing cell without cropping. If set to "
+"Fill, images are scaled to fill or cover their containing cell. This may "
+"result in some cropping. This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:639
+msgid ""
+"Here you can set the table’s default horizontal image alignment. This "
+"setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:641
+msgid ""
+"Here you can set the table’s default vertical image alignment. This setting "
+"can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:645
+msgid ""
+"Here you can set how the table frame or grid will display. If set to Gaps, "
+"table cells will be separated by a gap of your choice, allowing background "
+"colors and images to show through. If set to Lines, table cells will be "
+"separated by a line of your choice."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:647
+msgid "Here you can set the column gap."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:649
+msgid "Here you can set the row gap."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:651
+msgid "Here you can set the line style."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:653
+msgid "Here you can set the line color."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:655
+msgid "Here you can set the line width."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:659
+msgid "Here you can choose to apply a stripe effect to table rows."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:661
+msgid "Here you can choose where the stripe effect is applied."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:663
+msgid ""
+"Here you can choose whether the stripe effect is applied to odd or even "
+"rows."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:665
+msgid "Here you can set the stripe hue level."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:667
+msgid "Here you can set the stripe saturation level."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:669
+msgid "Here you can set the stripe brightness level."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:673
+msgid ""
+"Here you can set the table cell background color. This setting can be "
+"overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:675
+msgid ""
+"Here you can set the horizontal alignment of table cell content. This "
+"setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:677
+msgid ""
+"Here you can set the vertical alignment of table cell content. This setting "
+"can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:679
+msgid ""
+"Here you can set the table cell padding. This setting can be overridden per "
+"column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:683
+msgid ""
+"Here you can set the column header cell background color. This setting can "
+"be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:685
+msgid ""
+"Here you can set the horizontal alignment of column header cell content. "
+"This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:687
+msgid ""
+"Here you can set the vertical alignment of column header cell content. This "
+"setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:689
+msgid ""
+"Here you can set the column header cell padding. This setting can be "
+"overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:693
+msgid ""
+"Here you can set the row header cell background color. This setting can be "
+"overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:695
+msgid ""
+"Here you can set the horizontal alignment of row header cell content. This "
+"setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:697
+msgid ""
+"Here you can set the vertical alignment of row header cell content. This "
+"setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:699
+msgid ""
+"Here you can set the row header cell padding. This setting can be "
+"overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:703
+msgid ""
+"Here you can set the column footer cell background color. This setting can "
+"be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:705
+msgid ""
+"Here you can set the horizontal alignment of column footer cell content. "
+"This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:707
+msgid ""
+"Here you can set the vertical alignment of column footer cell content. This "
+"setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:709
+msgid ""
+"Here you can set the column footer cell padding. This setting can be "
+"overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:713
+msgid ""
+"Here you can set the row footer cell background color. This setting can be "
+"overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:715
+msgid ""
+"Here you can set the horizontal alignment of row footer cell content. This "
+"setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:717
+msgid ""
+"Here you can set the vertical alignment of row footer cell content. This "
+"setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:719
+msgid ""
+"Here you can set the row footer cell padding. This setting can be "
+"overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:723
+msgid ""
+"Here you can choose whether to allow table text to wrap to multiple lines. "
+"This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:725
+msgid ""
+"Here you can choose whether to allow column header text to wrap to multiple "
+"lines. This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:727
+msgid ""
+"Here you can choose whether to allow row header text to wrap to multiple "
+"lines. This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:729
+msgid ""
+"Here you can choose whether to allow column footer text to wrap to multiple "
+"lines. This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:731
+msgid ""
+"Here you can choose whether to allow row footer text to wrap to multiple "
+"lines. This setting can be overridden per column."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:735
+msgid "Here you can set the accordion toggle icon alignment."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:737
+msgid "Here you can set the accordion toggle icon size."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:739
+msgid "Here you can set the accordion toggle icon color."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:741
+msgid "Here you can set the accordion open toggle icon."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:743
+msgid "Here you can set the accordion close toggle icon."
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:768
+#: includes/modules/TableMaker/TableMaker.php:803
+msgid "Header Count"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:785
+#: includes/modules/TableMaker/TableMaker.php:820
+msgid "Footer Count"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:842
+#: includes/modules/TableMakerItem/TableMakerItem.php:672
+msgid "Max Width"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:862
+#: includes/modules/TableMakerItem/TableMakerItem.php:693
+msgid "Min Width"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:883
+msgid "Max Height"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:904
+msgid "Min Height"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:928
+msgid "Breakpoint"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:937
+#: includes/modules/TableMaker/TableMaker.php:1382
+msgid "None"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:940
+msgid "Tablet"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:943
+msgid "Phone"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:951
+msgid "Break By"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:963
+#: includes/modules/TableMakerItem/TableMakerItem.php:28
+msgid "Columns"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:966
+#: includes/modules/TableMakerItem/TableMakerItem.php:655
+msgid "Rows"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1010
+msgid "Display As"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1022
+msgid "Blocks"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1025
+msgid "Accordion"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1050
+msgid "Block/Acccordion Gap"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1077
+msgid "Scrolling"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1085
+#: includes/modules/TableMaker/TableMaker.php:1105
+#: includes/modules/TableMaker/TableMaker.php:1125
+#: includes/modules/TableMaker/TableMaker.php:1511
+msgid "On"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1086
+#: includes/modules/TableMaker/TableMaker.php:1106
+#: includes/modules/TableMaker/TableMaker.php:1126
+#: includes/modules/TableMaker/TableMaker.php:1512
+msgid "Off"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1091
+msgid "Sticky Column Headers"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1111
+msgid "Sticky Row Headers"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1135
+#: includes/modules/TableMakerItem/TableMakerItem.php:718
+msgid "Default Icon"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1145
+#: includes/modules/TableMakerItem/TableMakerItem.php:728
+msgid "Icon Size"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1163
+#: includes/modules/TableMakerItem/TableMakerItem.php:745
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1178
+#: includes/modules/TableMakerItem/TableMakerItem.php:760
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1188
+#: includes/modules/TableMakerItem/TableMakerItem.php:770
+msgid "Button URL"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1199
+#: includes/modules/TableMakerItem/TableMakerItem.php:781
+msgid "Button Target"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1207
+#: includes/modules/TableMakerItem/TableMakerItem.php:789
+#: includes/modules/TableMakerItem/TableMakerItem.php:829
+msgid "Default"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1208
+#: includes/modules/TableMakerItem/TableMakerItem.php:790
+msgid "In The Same Window"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1209
+#: includes/modules/TableMakerItem/TableMakerItem.php:791
+msgid "In The New Tab"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1214
+#: includes/modules/TableMakerItem/TableMakerItem.php:796
+msgid "Button Width"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1223
+#: includes/modules/TableMakerItem/TableMakerItem.php:805
+msgid "Text Width"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1226
+#: includes/modules/TableMakerItem/TableMakerItem.php:808
+msgid "Cell Width"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1238
+msgid "Images"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1250
+msgid "Image Quality"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1258
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1259
+msgid "Small"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1260
+msgid "Medium"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1261
+msgid "Large"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1262
+msgid "Full Size"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1279
+#: includes/modules/TableMakerItem/TableMakerItem.php:820
+msgid "Image Proportion"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1288
+#: includes/modules/TableMakerItem/TableMakerItem.php:830
+msgid "1:3 – Portrait"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1289
+#: includes/modules/TableMakerItem/TableMakerItem.php:831
+msgid "1:2 – Portrait"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1290
+#: includes/modules/TableMakerItem/TableMakerItem.php:832
+msgid "2:3 – Portrait"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1291
+#: includes/modules/TableMakerItem/TableMakerItem.php:833
+msgid "3:4 – Portrait"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1292
+#: includes/modules/TableMakerItem/TableMakerItem.php:834
+msgid "4:5 – Portrait"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1293
+#: includes/modules/TableMakerItem/TableMakerItem.php:835
+msgid "1:1 – Square"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1294
+#: includes/modules/TableMakerItem/TableMakerItem.php:836
+msgid "5:4 – Landscape"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1295
+#: includes/modules/TableMakerItem/TableMakerItem.php:837
+msgid "4:3 – Landscape"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1296
+#: includes/modules/TableMakerItem/TableMakerItem.php:838
+msgid "3:2 – Landscape"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1297
+#: includes/modules/TableMakerItem/TableMakerItem.php:839
+msgid "2:1 – Landscape"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1298
+#: includes/modules/TableMakerItem/TableMakerItem.php:840
+msgid "3:1 – Landscape"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1303
+#: includes/modules/TableMakerItem/TableMakerItem.php:845
+msgid "Image Scale"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1312
+#: includes/modules/TableMakerItem/TableMakerItem.php:854
+msgid "Fit"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1315
+#: includes/modules/TableMakerItem/TableMakerItem.php:857
+msgid "Fill"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1323
+#: includes/modules/TableMakerItem/TableMakerItem.php:865
+msgid "Image Alignment (Horizontal)"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1332
+#: includes/modules/TableMakerItem/TableMakerItem.php:874
+msgid "Left"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1335
+#: includes/modules/TableMaker/TableMaker.php:1358
+#: includes/modules/TableMakerItem/TableMakerItem.php:877
+#: includes/modules/TableMakerItem/TableMakerItem.php:900
+msgid "Center"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1338
+#: includes/modules/TableMakerItem/TableMakerItem.php:880
+msgid "Right"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1346
+#: includes/modules/TableMakerItem/TableMakerItem.php:888
+msgid "Image Alignment (Vertical)"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1355
+#: includes/modules/TableMakerItem/TableMakerItem.php:897
+msgid "Top"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1361
+#: includes/modules/TableMakerItem/TableMakerItem.php:903
+msgid "Bottom"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1373
+msgid "Frame Type"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1385
+msgid "Gaps"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1388
+msgid "Lines"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1396
+msgid "Column Gap"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1419
+msgid "Row Gap"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1442
+msgid "Line Style"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1453
+msgid "Solid"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1454
+msgid "Dashed"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1455
+msgid "Dotted"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1456
+msgid "Double"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1457
+msgid "Dark/Light"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1458
+msgid "Light/Dark"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1459
+msgid "Inset"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1460
+msgid "Outset"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1465
+msgid "Line Color"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1477
+msgid "Line Width"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1503
+msgid "Stripes"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1517
+msgid "Apply Stripes To"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1529
+msgid "Column Headers"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1530
+msgid "Column Footers"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1531
+msgid "Row Headers"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1532
+msgid "Row Footers"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1537
+msgid "Stripe Order"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1549
+msgid "Odd Rows"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1552
+msgid "Even Rows"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1560
+msgid "Stripe Hue"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1582
+msgid "Stripe Saturation"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1604
+msgid "Stripe Brightness"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1631
+#: includes/modules/TableMaker/TableMaker.php:1675
+#: includes/modules/TableMaker/TableMaker.php:1719
+#: includes/modules/TableMaker/TableMaker.php:1763
+#: includes/modules/TableMaker/TableMaker.php:1807
+#: includes/modules/TableMakerItem/TableMakerItem.php:916
+#: includes/modules/TableMakerItem/TableMakerItem.php:960
+#: includes/modules/TableMakerItem/TableMakerItem.php:1004
+#: includes/modules/TableMakerItem/TableMakerItem.php:1048
+#: includes/modules/TableMakerItem/TableMakerItem.php:1092
+msgid "Background Color"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1642
+#: includes/modules/TableMaker/TableMaker.php:1686
+#: includes/modules/TableMaker/TableMaker.php:1730
+#: includes/modules/TableMaker/TableMaker.php:1774
+#: includes/modules/TableMaker/TableMaker.php:1818
+#: includes/modules/TableMakerItem/TableMakerItem.php:927
+#: includes/modules/TableMakerItem/TableMakerItem.php:971
+#: includes/modules/TableMakerItem/TableMakerItem.php:1015
+#: includes/modules/TableMakerItem/TableMakerItem.php:1059
+#: includes/modules/TableMakerItem/TableMakerItem.php:1103
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1652
+#: includes/modules/TableMaker/TableMaker.php:1696
+#: includes/modules/TableMaker/TableMaker.php:1740
+#: includes/modules/TableMaker/TableMaker.php:1784
+#: includes/modules/TableMaker/TableMaker.php:1828
+#: includes/modules/TableMakerItem/TableMakerItem.php:937
+#: includes/modules/TableMakerItem/TableMakerItem.php:981
+#: includes/modules/TableMakerItem/TableMakerItem.php:1025
+#: includes/modules/TableMakerItem/TableMakerItem.php:1069
+#: includes/modules/TableMakerItem/TableMakerItem.php:1113
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1662
+#: includes/modules/TableMaker/TableMaker.php:1706
+#: includes/modules/TableMaker/TableMaker.php:1750
+#: includes/modules/TableMaker/TableMaker.php:1794
+#: includes/modules/TableMaker/TableMaker.php:1838
+#: includes/modules/TableMakerItem/TableMakerItem.php:947
+#: includes/modules/TableMakerItem/TableMakerItem.php:991
+#: includes/modules/TableMakerItem/TableMakerItem.php:1035
+#: includes/modules/TableMakerItem/TableMakerItem.php:1079
+#: includes/modules/TableMakerItem/TableMakerItem.php:1123
+msgid "Padding"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1855
+#: includes/modules/TableMaker/TableMaker.php:1876
+#: includes/modules/TableMaker/TableMaker.php:1897
+#: includes/modules/TableMaker/TableMaker.php:1918
+#: includes/modules/TableMaker/TableMaker.php:1939
+#: includes/modules/TableMakerItem/TableMakerItem.php:1140
+#: includes/modules/TableMakerItem/TableMakerItem.php:1161
+#: includes/modules/TableMakerItem/TableMakerItem.php:1182
+#: includes/modules/TableMakerItem/TableMakerItem.php:1203
+#: includes/modules/TableMakerItem/TableMakerItem.php:1224
+msgid "Text Wrap"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1864
+#: includes/modules/TableMaker/TableMaker.php:1885
+#: includes/modules/TableMaker/TableMaker.php:1906
+#: includes/modules/TableMaker/TableMaker.php:1927
+#: includes/modules/TableMaker/TableMaker.php:1948
+#: includes/modules/TableMakerItem/TableMakerItem.php:1149
+#: includes/modules/TableMakerItem/TableMakerItem.php:1170
+#: includes/modules/TableMakerItem/TableMakerItem.php:1191
+#: includes/modules/TableMakerItem/TableMakerItem.php:1212
+#: includes/modules/TableMakerItem/TableMakerItem.php:1233
+msgid "Wrap"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1867
+#: includes/modules/TableMaker/TableMaker.php:1888
+#: includes/modules/TableMaker/TableMaker.php:1909
+#: includes/modules/TableMaker/TableMaker.php:1930
+#: includes/modules/TableMaker/TableMaker.php:1951
+#: includes/modules/TableMakerItem/TableMakerItem.php:1152
+#: includes/modules/TableMakerItem/TableMakerItem.php:1173
+#: includes/modules/TableMakerItem/TableMakerItem.php:1194
+#: includes/modules/TableMakerItem/TableMakerItem.php:1215
+#: includes/modules/TableMakerItem/TableMakerItem.php:1236
+msgid "No Wrap"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1963
+msgid "Toggle Alignment"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:1980
+msgid "Toggle Size"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:2004
+msgid "Toggle Color"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:2021
+msgid "Toggle Icon (Open)"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:2037
+msgid "Toggle Icon (Close)"
+msgstr ""
+
+#: includes/modules/TableMaker/TableMaker.php:2886
+msgid ""
+"%1$s%2$s%3$sSorry!%4$s%5$sFatal Error:%6$s Divi-Modules – Table Maker "
+"requires %7$sPHP Version 5.6 (or higher)%8$s and the %7$sPHP DOM "
+"Extension%8$s to be enabled. Please check with your hosting provider that "
+"your %7$sPHP%8$s is correctly configured for this product. If problems "
+"persist, please contact Divi-Modules for support: "
+"%9$shttps://divi-modules.com/contact/%10$s"
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:33
+msgid "Column Settings"
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:64
+#: includes/modules/TableMakerItem/TableMakerItem.php:108
+msgid "Column Content"
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:65
+msgid "Column Width"
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:66
+#: includes/modules/TableMakerItem/TableMakerItem.php:153
+msgid "Column Icons"
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:67
+#: includes/modules/TableMakerItem/TableMakerItem.php:158
+msgid "Column Buttons"
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:68
+#: includes/modules/TableMakerItem/TableMakerItem.php:163
+msgid "Column Images"
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:75
+#: includes/modules/TableMakerItem/TableMakerItem.php:103
+msgid "Column Cells"
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:76
+msgid "Column Text"
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:532
+msgid ""
+"Here you can set a label for the column in the builder for easy "
+"identification. This label will not be displayed on the front end."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:534
+msgid ""
+"Here you can enter content for this column’s rows. Rows are numbered for "
+"your convenience – one row in this editor equals one row in the table. "
+"Content can included HTML markup, which means characters such as &quot; "
+"&apos; &amp; &lt; &gt; will need to be avoided or escaped in order to avoid "
+"errors. Here, individual row cells can be styled and icons, buttons and "
+"images added using tags which are unique to this module. See documentation "
+"for details."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:536
+msgid ""
+"Here you can enter content for this column’s rows. Rows are numbered for "
+"your convenience – one row in this editor equals one row in the table."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:540
+msgid ""
+"Here you can set a maximum width for this column. For flexible-width "
+"columns, it’s recommended to use fraction (fr) units. This can also be set "
+"to 'auto'. For fixed-width columns, it’s recommended to use pixel (px) "
+"units."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:542
+msgid ""
+"Here you can set a minimum width for this column. It’s recommended to use "
+"pixel (px) units."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:546
+msgid ""
+"Here you can select this column’s default icon. This setting can be "
+"overridden per icon element. See documentation for details."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:548
+msgid ""
+"Here you can set this column’s default icon size. This setting can be "
+"overridden per icon element. See documentation for details."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:550
+msgid ""
+"Here you can set this column’s default icon color. This setting can be "
+"overridden per icon element. See documentation for details."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:554
+msgid ""
+"Here you can set this column’s default button text. This setting can be "
+"overridden per button element. See documentation for details."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:556
+msgid ""
+"Here you can set this column’s default button url. This setting can be "
+"overridden per button element. See documentation for details."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:558
+msgid ""
+"Here you can set this column’s default button target. This setting can be "
+"overridden per button element. See documentation for details."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:560
+msgid ""
+"Here you can set this column’s default button width. If set to Text Width, "
+"buttons will be as wide as their text. If set to Cell Width, buttons will "
+"stretch to fill their containing cell."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:564
+msgid "Here you can set this column’s default image proportion."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:566
+msgid ""
+"Here you can choose how this column’s images are scaled. If set to Fit, "
+"images are scaled to fit their containing cell without cropping. If set to "
+"Fill, images are scaled to fill or cover their containing cell. This may "
+"result in some cropping."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:568
+msgid "Here you can set this column’s default horizontal image alignment."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:570
+msgid "Here you can set this column’s default vertical image alignment."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:574
+msgid "Here you can set this column’s cell background color."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:576
+msgid "Here you can set the horizontal alignment of this column’s cell content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:578
+msgid "Here you can set the vertical alignment of this column’s cell content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:580
+msgid "Here you can set this column’s cell padding."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:584
+msgid "Here you can set this column’s column header cell background color."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:586
+msgid ""
+"Here you can set the horizontal alignment of this column’s column header "
+"cell content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:588
+msgid ""
+"Here you can set the vertical alignment of this column’s column header cell "
+"content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:590
+msgid "Here you can set this column’s column header cell padding."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:594
+msgid "Here you can set this column’s row header cell background color."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:596
+msgid ""
+"Here you can set the horizontal alignment of this column’s row header cell "
+"content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:598
+msgid ""
+"Here you can set the vertical alignment of this column’s row header cell "
+"content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:600
+msgid "Here you can set this column’s row header cell padding."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:604
+msgid "Here you can set this column’s column footer cell background color."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:606
+msgid ""
+"Here you can set the horizontal alignment of this column’s column footer "
+"cell content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:608
+msgid ""
+"Here you can set the vertical alignment of this column’s column footer cell "
+"content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:610
+msgid "Here you can set this column’s column footer cell padding."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:614
+msgid "Here you can set this column’s row footer cell background color."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:616
+msgid ""
+"Here you can set the horizontal alignment of this column’s row footer cell "
+"content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:618
+msgid ""
+"Here you can set the vertical alignment of this column’s row footer cell "
+"content."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:620
+msgid "Here you can set this column’s row footer cell padding."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:624
+msgid ""
+"Here you can choose whether to allow this column’s text to wrap to multiple "
+"lines."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:626
+msgid ""
+"Here you can choose whether to allow this column’s column header text to "
+"wrap to multiple lines."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:628
+msgid ""
+"Here you can choose whether to allow this column’s row header text to wrap "
+"to multiple lines."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:630
+msgid ""
+"Here you can choose whether to allow this column’s column footer text to "
+"wrap to multiple lines."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:632
+msgid ""
+"Here you can choose whether to allow this column’s row footer text to wrap "
+"to multiple lines."
+msgstr ""
+
+#: includes/modules/TableMakerItem/TableMakerItem.php:645
+msgid "Label"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Divi-Modules – Table Maker"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://divi-modules.com/products/table-maker/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Brings beautiful responsive tables to the Divi Builder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Divi-Modules"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://divi-modules.com/"
+msgstr ""

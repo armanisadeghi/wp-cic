@@ -1,0 +1,335 @@
+# Copyright (C) 2022 Pee-Aye Creative
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Custom Blog Module 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/divi-customblog-module\n"
+"POT-Creation-Date: 2022-08-11 09:05:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:20
+msgid "Custom Blog"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:21
+msgid "Custom Blogs"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:91
+msgid "Meta"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:99
+msgid "Read More"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:107
+msgid "Pagination"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:144
+msgid "Grid Layout"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:179
+msgid "Image Box Shadow"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:253
+msgid "Post Meta"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:257
+msgid "Pagenavi"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:261
+msgid "Featured Image"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:265
+msgid "Read More Button"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:272
+msgid "An introduction to the Blog module"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:276
+msgid "How To Use Divi Blog Post Formats"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:365
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:366
+msgid "Choose the type of taxonomies you want to display."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:383
+msgid "Included Taxonomy Terms"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:384
+msgid "Choose which taxonomies you would like to include in the feed."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:413
+msgid "Post Type"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:418
+msgid "Choose posts of which post type you would like to display."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:434
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:435
+msgid "Grid"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:445
+msgid "Toggle between the various blog layout types."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:454
+msgid "Posts For Current Page"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:461
+msgid "Display posts for the current page. Useful on archive and index pages."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:472
+msgid "Post Count"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:475
+msgid "Choose how much posts you would like to display per page."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:483
+msgid "Date Format"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:486
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:494
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:501
+msgid "This will turn thumbnails on and off."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:511
+msgid "Content Length"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:515
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:648
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:516
+msgid "Show Content"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:524
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:534
+msgid "Use Post Excerpts"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:535
+msgid ""
+"Disable this option if you want to ignore manually defined excerpts and "
+"always generate it automatically."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:550
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:551
+msgid ""
+"Define the length of automatically generated excerpts. Leave blank for "
+"default ( 270 ) "
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:562
+msgid "Show Read More Button"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:570
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts "
+"or not."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:580
+msgid "Show Author"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:587
+msgid "Turn on or off the author link."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:597
+msgid "Show Date"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:604
+msgid "Turn the date on or off."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:614
+msgid "Show Categories"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:621
+msgid "Turn the category links on or off."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:631
+msgid "Show Comment Count"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:638
+msgid "Turn comment count on and off."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:649
+msgid "Turn excerpt on and off."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:666
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:673
+msgid "Turn pagination on and off."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:683
+msgid "Post Offset Number"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:686
+msgid ""
+"Choose how many posts you would like to skip. These posts will not be shown "
+"in the feed."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:694
+msgid "Featured Image Overlay"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:706
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the featured image of a post."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:715
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:721
+msgid "Here you can define a custom color for the overlay icon"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:726
+msgid "Overlay Background Color"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:732
+msgid "Here you can define a custom color for the overlay"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:737
+msgid "Overlay Icon"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:742
+msgid "Here you can define a custom icon for the overlay"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:752
+msgid "Grid Tile Background Color"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1046
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1836
+msgid "by %s"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1052
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1839
+msgid "%s"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1093
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1799
+msgid "read more..."
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1126
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1577
+msgid "read more"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Divi Custom Blog Module"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.peeayecreative.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A FREE modified Divi Blog module by Pee-Aye Creative which allows you to "
+"select and show posts based on taxonomies of custom post types!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pee-Aye Creative"
+msgstr ""
+
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1064
+#: includes/modules/DiviCustomBlog/DiviCustomBlog.php:1845
+msgctxt "number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
